@@ -1,0 +1,1 @@
+com.thenaglecode.serviceProviders.GroupPrivilegeMappingService # the mapping service required by the @UserHasPrivilege annotation
